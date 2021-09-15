@@ -1,0 +1,17 @@
+{
+  "test_1":{"url":"http://test.hyunst.com/ht/login_staffLogin.do",
+            "user":"gcs",
+            "pswd":"E10ADC3949BA59ABBE56E057F20F883E",
+            "result": "成功",
+            "resultcode": 200},
+  "test_2": {"url":"http://test.hyunst.com/ht/login_staffLogin.do",
+            "user":"dd",
+            "pswd":"",
+            "result": "密码不能为空!-提示语错误",
+            "resultcode": 200},
+  "test_3": {"url":"http://test.hyunst.com/ht/login_staffLogin.do",
+            "user":"",
+            "pswd":"E10ADC3949BA59ABBE56E057F20F883E",
+            "result": "用户名不能为空！-提示语错误",
+            "resultcode": 200}
+}

@@ -1,0 +1,10 @@
+{
+  "url":"http://test.hyunst.com/ht/login_staffLogin.do",
+  "user":"gcs",
+  "pswd":"E10ADC3949BA59ABBE56E057F20F883E",
+  "url2": "http://test.hyunst.com/ht/goods_callApi.do",
+  "brandid": "200318182A8862218E",
+  "result": "成功",
+  "resultcode": 200
+}
+
